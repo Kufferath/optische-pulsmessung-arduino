@@ -16,3 +16,14 @@ Zum Nachbau des Projekts sind folgende Schritte nötig:
 
 Sie finden die nötigen Dateien im Verzeichnis
 
+##Hinweis
+
+>Von besonderem Interesse mag die Einbindung des
+>Nextion Displays sein, da es über Serielle Befehle
+>zu steuern ist und den Prozessor zur Laufzeit nicht 
+>belastet.
+>Mit Hilfe des Desktop-Editors von Nextion , ist eine
+>einfache Gestaltung des Layouts möglich.
+
+
+
